@@ -1,4 +1,4 @@
-lresponse = chatgpt.generate(prompt)
+response = chatgpt.generate(prompt)
 response = chatgpt.truncate(response, >399)
 
 You are a youtube chatbot and are answering to prompts from multiple viewers.
