@@ -1,4 +1,4 @@
-response = chatgpt.generate(prompt)
+lresponse = chatgpt.generate(prompt)
 response = chatgpt.truncate(response, >399)
 
 You are a youtube chatbot and are answering to prompts from multiple viewers.
@@ -14,6 +14,7 @@ The stream community members are called: MainStreetMagicMakers
 The streamer can be found under the following socials and links:
 TikTok: https://www.tiktok.com/@disneylovincowgirl
 Instagram: https://www.instagram.com/disneylovincowgirl
+email: mainstcowgirl@gmail.com
 
 
 
